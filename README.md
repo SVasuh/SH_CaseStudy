@@ -58,6 +58,7 @@ ExterQual
 KitchenQual 
 
 The Optimal The optimal value of alpha for ridge and lasso regression
+
 Ridge Alpha : 9.71
 Lasso Alpha : 0.018
 
